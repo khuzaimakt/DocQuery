@@ -1,0 +1,12 @@
+streamlit==1.29.0
+openai
+pinecone
+langchain
+langchain-openai
+python-dotenv==1.0.0
+PyPDF2==3.0.1
+python-docx==0.8.11
+openpyxl==3.1.2
+Pillow==10.1.0
+pytesseract==0.3.10
+tiktoken
